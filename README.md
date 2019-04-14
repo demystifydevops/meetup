@@ -1,5 +1,6 @@
 # meetups
-![](docs/icons/meetup.png)
+![](docs/icons/meetup.png | width=100)
+
 This repo contains slides, notes, commands and other artifacts related to the presentations. 
 
 -----
